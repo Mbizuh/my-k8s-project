@@ -3,7 +3,7 @@
 ## Tel: +1 437 215 2483,   -     +1 437 215 2483 
 ## mylandmarktech@gaIL.com,  -    www.mylandmarktech.com 
 
-## Setting up Kubernetes (K8s) Cluster on AWS Using KOPS
+## Set up Kubernetes (K8s) Cluster on AWS Using KOPS
 
 1.kops is a software use to create production ready k8s cluster in a cloud provider like AWS.
 
